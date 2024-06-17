@@ -1,4 +1,4 @@
-# **Breast Cancer Prediction with Cross Validation Scores**
+# **Breast Cancer Prediction with Cross Validation**
 
 This project focuses on predicting breast cancer using machine learning models through cross-validation techniques. The dataset utilized in this study is the Breast Cancer Wisconsin (Diagnostic) dataset, which contains features computed from digitized images of fine needle aspirates (FNA) of breast masses. Each instance in the dataset describes the characteristics of cell nuclei present in these images. 
 
