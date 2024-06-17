@@ -36,4 +36,4 @@ The results suggest that removing highly inter-correlated features may not alway
 - Deploy the trained model in a real-world setting to assist in the early detection and diagnosis of breast cancer.
 
 ## **Acknowledgments**
-The authors would like to acknowledge the University of Wisconsin-Madison and the UCI Machine Learning Repository for providing the Breast Cancer Wisconsin (Diagnostic) dataset used in this project
+I would like to acknowledge the University of Wisconsin-Madison and the UCI Machine Learning Repository for providing the Breast Cancer Wisconsin (Diagnostic) dataset used in this project
